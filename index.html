@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Solar System Simulation</title>
+  <style>
+    body { margin: 0; overflow: hidden; background-color: black; color: white; font-family: Arial; }
+    #controls {
+      position: absolute;
+      top: 10px;
+      left: 10px;
+      background: rgba(0,0,0,0.6);
+      padding: 10px;
+      border-radius: 8px;
+      max-height: 90vh;
+      overflow-y: auto;
+    }
+    .slider-container { margin-bottom: 8px; }
+    canvas { display: block; }
+  </style>
+</head>
+<body>
+  <div id="controls"></div>
+  <script src="https://cdn.jsdelivr.net/npm/three@0.152.2/build/three.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
