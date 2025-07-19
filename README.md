@@ -1,5 +1,6 @@
 # Solar System Simulation – Ramkrishna Modak
 
+VIDEO EXPLANATION https://drive.google.com/file/d/1JKCuQ6uSpotWl6EqsoDqTQF4IzUjbben/view?usp=sharing
 ## 🌍 Overview
 A 3D Solar System simulation built with Three.js and vanilla JavaScript. The project demonstrates 3D rendering, animation loops, and real-time user interaction.
 
